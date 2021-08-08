@@ -28,5 +28,5 @@ sleep(2)
 js = "window.scrollTo(100, 450);"
 browser.execute_script(js)
 sleep(2)
- 
+
 browser.quit()

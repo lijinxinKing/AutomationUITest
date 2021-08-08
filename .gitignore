@@ -67,7 +67,7 @@ instance/
 
 # Scrapy stuff:
 .scrapy
-.vscode
+
 # Sphinx documentation
 docs/_build/
 
@@ -109,7 +109,9 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-
+.vscode
+.idea
+workspace.code-workspace
 # Spyder project settings
 .spyderproject
 .spyproject
